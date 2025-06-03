@@ -20,7 +20,6 @@ const AddAddress = () =>{
             email:'',
             street:'',
             city:'',
-            street:'',
             state:'',
             zipcode:'',
             country:'',
