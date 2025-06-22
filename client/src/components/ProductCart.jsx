@@ -51,7 +51,7 @@ const ProductCart = ({ product }) => {
             </p>
             <div
               onClick={(e) => {
-                e.stopPropogation();
+                e.stopPropagation();
               }}
               className="text-primary"
             >
